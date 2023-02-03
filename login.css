@@ -1,0 +1,68 @@
+.log h1{
+	font-family: font-family: 'Explora', cursive;
+	font-family: 'Lobster', cursive;
+	font-family: 'Lobster Two', cursive;
+	font-family: 'Noto Sans Hanunoo', sans-serif;
+	font-family: 'Noto Sans NKo', sans-serif;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Satisfy', cursive;
+	color:#63666A;
+	position: relative;
+	left:60px;
+	padding-bottom: 4%;
+}
+.log{
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	width:21%;
+	margin: 2% 2% 2% 45%;
+	padding: 2% 2% 2% 5%;
+	background-color: white;
+}
+h3{
+	color: gray;
+	padding-top: 4%;
+	padding-bottom: 6%;
+	position: relative;
+	left: 10%;
+}
+input{
+	border: none;
+	border-bottom-style: solid;
+	width: 90%;
+	color: gray;
+	border-width: 1px;
+}
+.pass{
+	text-decoration: none;
+	color: gray;
+	text-align: center;
+}
+button{
+	padding:2% 15% 2% 15%;
+	border-radius: 20px;
+	border: none;
+	background-color: #63666A;
+	color: white;
+}
+.google{
+	text-decoration: none;
+	color: gray;
+}
+.new a{
+	text-decoration: none;
+	color: gray;
+}
+.new{
+	color: gray;
+}
+.img{
+	position: relative;
+	left: 190px;
+	top: 467px
+}
+.nav{
+	background-color:#63666A; 
+	padding: 5%;
+}
